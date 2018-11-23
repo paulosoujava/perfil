@@ -16,6 +16,10 @@
     "zip": "88047-001",
     "email": "email@email.com",
     "phone": "(48)996297813",
+    "facebook": "url face",
+    "instagram": "url insta",
+    "site": "url site",
+    "youtube": "url youtube",
     "payment": "Aceitamos todos os tidos de cartoes do mercado, como tambem vale alimentacao AMEX, VESPES TRANZEX",
     "menu": [
       {
@@ -141,6 +145,8 @@
             "desc": "Confirme presença para participar do sorteio feito no dia, concorrendo a 2 shots de tequila, para partipar confirme basta clicar em Bora e comparecer no dia. ",
             "photo": "http://ligadoamusica.com.br/wp-content/uploads/2017/02/PAD-2-Foto-Francis-Farago.jpg",
             "title": "LAP LAP",
+            "photo_product_head": "http://ligadoamusica.com.br/wp-content/uploads/2017/02/PAD-2-Foto-Francis-Farago.jpg",
+            "photo_product_footer":"http://ligadoamusica.com.br/wp-content/uploads/2017/02/PAD-2-Foto-Francis-Farago.jpg",
             "who_go": [
               {
                 "city": "Florianópolis",
@@ -184,6 +190,8 @@
             "desc": "Confirme presença para participar do sorteio feito no dia, concorrendo a 2 shots de tequila, para partipar confirme basta clicar em Bora e comparecer no dia.",
             "photo": "http://ligadoamusica.com.br/wp-content/uploads/2017/02/PAD-2-Foto-Francis-Farago.jpg",
             "title": "LAP LAP",
+          "photo_product_head": "http://ligadoamusica.com.br/wp-content/uploads/2017/02/PAD-2-Foto-Francis-Farago.jpg",
+            "photo_product_footer":"http://ligadoamusica.com.br/wp-content/uploads/2017/02/PAD-2-Foto-Francis-Farago.jpg",
             "who_go": [
               {
                 "city": "Florianópolis",
@@ -227,6 +235,8 @@
             "desc": "Confirme presença para participar do sorteio feito no dia, concorrendo a 2 shots de tequila, para partipar confirme basta clicar em Bora e comparecer no dia.",
             "photo": "http://ligadoamusica.com.br/wp-content/uploads/2017/02/PAD-2-Foto-Francis-Farago.jpg",
             "title": "LAP LAP",
+          "photo_product_head": "http://ligadoamusica.com.br/wp-content/uploads/2017/02/PAD-2-Foto-Francis-Farago.jpg",
+            "photo_product_footer":"http://ligadoamusica.com.br/wp-content/uploads/2017/02/PAD-2-Foto-Francis-Farago.jpg",
             "who_go": [
               {
                 "city": "Florianópolis",
@@ -270,6 +280,8 @@
             "desc": "Confirme presença para participar do sorteio feito no dia, concorrendo a 2 shots de tequila, para partipar confirme basta clicar em Bora e comparecer no dia.",
             "photo": "http://ligadoamusica.com.br/wp-content/uploads/2017/02/PAD-2-Foto-Francis-Farago.jpg",
             "title": "LAP LAP",
+          "photo_product_head": "http://ligadoamusica.com.br/wp-content/uploads/2017/02/PAD-2-Foto-Francis-Farago.jpg",
+            "photo_product_footer":"http://ligadoamusica.com.br/wp-content/uploads/2017/02/PAD-2-Foto-Francis-Farago.jpg",
             "who_go": [
               {
                 "city": "Florianópolis",
@@ -319,6 +331,8 @@
             "desc": "desc ",
             "photo": "http://ligadoamusica.com.br/wp-content/uploads/2017/02/PAD-2-Foto-Francis-Farago.jpg",
             "title": "LAP LAP",
+          "photo_product_head": "http://ligadoamusica.com.br/wp-content/uploads/2017/02/PAD-2-Foto-Francis-Farago.jpg",
+            "photo_product_footer":"http://ligadoamusica.com.br/wp-content/uploads/2017/02/PAD-2-Foto-Francis-Farago.jpg",
             "who_go": [
               {
                 "city": "Florianópolis",
@@ -340,6 +354,8 @@
             "desc": "desc ",
             "photo": "http://ligadoamusica.com.br/wp-content/uploads/2017/02/PAD-2-Foto-Francis-Farago.jpg",
             "title": "LAP LAP",
+          "photo_product_head": "http://ligadoamusica.com.br/wp-content/uploads/2017/02/PAD-2-Foto-Francis-Farago.jpg",
+            "photo_product_footer":"http://ligadoamusica.com.br/wp-content/uploads/2017/02/PAD-2-Foto-Francis-Farago.jpg",
             "who_go": [
               {
                 "city": "Florianópolis",
@@ -361,6 +377,8 @@
             "desc": "desc ",
             "photo": "http://ligadoamusica.com.br/wp-content/uploads/2017/02/PAD-2-Foto-Francis-Farago.jpg",
             "title": "LAP LAP",
+          "photo_product_head": "http://ligadoamusica.com.br/wp-content/uploads/2017/02/PAD-2-Foto-Francis-Farago.jpg",
+            "photo_product_footer":"http://ligadoamusica.com.br/wp-content/uploads/2017/02/PAD-2-Foto-Francis-Farago.jpg",
             "who_go": [
               {
                 "city": "Florianópolis",
@@ -373,97 +391,6 @@
           }
         ]
       }
-    ],
-
-    "people": [
-      {
-        "city": "Florianópolis",
-        "name": "Amandinha ana ",
-        "photo": "https://3.bp.blogspot.com/-L7nTrO7FYZw/UgRaNPDyegI/AAAAAAAAEH4/QfNKYJiZlGY/s1600/388470_251542824982379_1715489765_n.jpg",
-        "state": "SC",
-        "uid": "123"
-      },
-      {
-        "city": "Florianópolis",
-        "name": "Amandinha ana ",
-        "photo": "https://3.bp.blogspot.com/-L7nTrO7FYZw/UgRaNPDyegI/AAAAAAAAEH4/QfNKYJiZlGY/s1600/388470_251542824982379_1715489765_n.jpg",
-        "state": "SC",
-        "uid": "123"
-      },
-      {
-        "city": "Florianópolis",
-        "name": "Amandinha ana ",
-        "photo": "https://3.bp.blogspot.com/-L7nTrO7FYZw/UgRaNPDyegI/AAAAAAAAEH4/QfNKYJiZlGY/s1600/388470_251542824982379_1715489765_n.jpg",
-        "state": "SC",
-        "uid": "123"
-      },
-      {
-        "city": "Florianópolis",
-        "name": "Amandinha ana ",
-        "photo": "https://3.bp.blogspot.com/-L7nTrO7FYZw/UgRaNPDyegI/AAAAAAAAEH4/QfNKYJiZlGY/s1600/388470_251542824982379_1715489765_n.jpg",
-        "state": "SC",
-        "uid": "123"
-      },
-      {
-        "city": "Florianópolis",
-        "name": "Amandinha ana ",
-        "photo": "https://3.bp.blogspot.com/-L7nTrO7FYZw/UgRaNPDyegI/AAAAAAAAEH4/QfNKYJiZlGY/s1600/388470_251542824982379_1715489765_n.jpg",
-        "state": "SC",
-        "uid": "123"
-      },
-      {
-        "city": "Florianópolis",
-        "name": "Amandinha ana ",
-        "photo": "https://3.bp.blogspot.com/-L7nTrO7FYZw/UgRaNPDyegI/AAAAAAAAEH4/QfNKYJiZlGY/s1600/388470_251542824982379_1715489765_n.jpg",
-        "state": "SC",
-        "uid": "123"
-      },
-      {
-        "city": "Florianópolis",
-        "name": "Amandinha ana ",
-        "photo": "https://3.bp.blogspot.com/-L7nTrO7FYZw/UgRaNPDyegI/AAAAAAAAEH4/QfNKYJiZlGY/s1600/388470_251542824982379_1715489765_n.jpg",
-        "state": "SC",
-        "uid": "123"
-      },
-      {
-        "city": "Florianópolis",
-        "name": "Amandinha ana ",
-        "photo": "https://3.bp.blogspot.com/-L7nTrO7FYZw/UgRaNPDyegI/AAAAAAAAEH4/QfNKYJiZlGY/s1600/388470_251542824982379_1715489765_n.jpg",
-        "state": "SC",
-        "uid": "123"
-      }
-    ],
-    "timeline": [
-      {
-        "uid": "123",
-        "name": "Amandinha ana ",
-        "photo_user": "https://3.bp.blogspot.com/-L7nTrO7FYZw/UgRaNPDyegI/AAAAAAAAEH4/QfNKYJiZlGY/s1600/388470_251542824982379_1715489765_n.jpg",
-        "photo_post" : "https://img.elo7.com.br/product/original/1085212/painel-balada-g-frete-gratis-decoracao-de-festa.jpg",
-        "post" : "Meu post bonitao"
-      },
-      {
-        "uid": "123",
-        "name": "Amandinha ana ",
-        "photo_user": "https://3.bp.blogspot.com/-L7nTrO7FYZw/UgRaNPDyegI/AAAAAAAAEH4/QfNKYJiZlGY/s1600/388470_251542824982379_1715489765_n.jpg",
-        "photo_post" : "https://img.elo7.com.br/product/original/1085212/painel-balada-g-frete-gratis-decoracao-de-festa.jpg",
-        "post" : "Meu 2 post bonitao"
-      },
-      {
-        "uid": "123",
-        "name": "Amandinha ana ",
-        "photo_user": "https://3.bp.blogspot.com/-L7nTrO7FYZw/UgRaNPDyegI/AAAAAAAAEH4/QfNKYJiZlGY/s1600/388470_251542824982379_1715489765_n.jpg",
-        "photo_post" : "",
-        "post" : "Meu 3 post bonitao"
-      },
-      {
-        "uid": "123",
-        "name": "Amandinha ana ",
-        "photo_user": "https://3.bp.blogspot.com/-L7nTrO7FYZw/UgRaNPDyegI/AAAAAAAAEH4/QfNKYJiZlGY/s1600/388470_251542824982379_1715489765_n.jpg",
-        "photo_post" : "https://img.elo7.com.br/product/original/1085212/painel-balada-g-frete-gratis-decoracao-de-festa.jpg",
-        "post" : "Meu 4 post bonitao"
-      }
-       
     ]
-
-    
   }
+     
